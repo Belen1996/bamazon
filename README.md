@@ -14,4 +14,4 @@ When customer makes a selection and enters a quantity (yes, Bamazon can also dea
 
 ![Image of Bamazon selling stuff](https://raw.githubusercontent.com/Belen1996/bamazon/master/screenshots/successful-sale.png)
 
-Bet on Bamazon! The next best thing after colored TV!
+Bet on Bamazon! The next best thing after color TV!
